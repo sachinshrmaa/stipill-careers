@@ -14,6 +14,7 @@ const Footer = () => {
                 </div>
 
                 <div className="col-md-8 col-12 d-flex justify-content-md-end  justify-content-center">
+                    <Link href='mailto:stipillin@gmail.com' className="ms-md-2 text-decoration-none text-light">Contact</Link> ・
                     <Link href='/terms' className="ms-md-2 text-decoration-none text-light">Terms</Link> ・
                     <Link href='/privacy' className="ms-2 text-decoration-none text-light">Privacy</Link>                  
                 </div>
