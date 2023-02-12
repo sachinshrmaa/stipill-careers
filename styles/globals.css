@@ -30,23 +30,6 @@ body{
     letter-spacing: 1.8px;
 }
 
-.nav-link{
-    color: #1f2d89;
-}
-
-
-.btn-hero{
-    margin-top: 40px;
-    background-color: var(--secondary-color);
-    color: #000;
-}
-
-.btn-hero:hover{
-    background-color: #fdf2cb;
-    color: #000;
-}
-
-
 .sub-heading{
     font-size: 35px;
     font-family: 'Josefin Sans', sans-serif;
@@ -71,7 +54,6 @@ body{
 }
 
 .btn-primary{
-    background-color: var(--primary-color);
     border: 0px;
 }
 
@@ -79,11 +61,6 @@ body{
 .remote-icon{
     font-size: 45px;
 }
-
-
-
-
-
 
 .job-card{
     width: auto; 
@@ -101,9 +78,7 @@ body{
 }
 
 
-.remote-card{
-    border: 0px;
-    margin: 100px 0;
+.bg-blue{
     background-color: var(--background-color);
 }
 

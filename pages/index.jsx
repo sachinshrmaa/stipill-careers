@@ -18,7 +18,7 @@ export default function Home() {
         <div className={styles.heroSection}>
             <h1 className={styles.heroTitle}>Build the future of creativity</h1>
             <p className={styles.heroPara}>Stipill is driving innovation at scale, by giving creators the tools and infrastructure they need so they can focus on what they do best.</p>
-            <a href="#open-roles" className="btn btn-hero px-3">See Open Roles &rarr;</a>
+            <a href="#open-roles" className="btn btn-primary mt-5 px-3">See Open Roles &rarr;</a>
         </div>
 
 
@@ -60,7 +60,7 @@ export default function Home() {
 
         
         <div className="col-md-9 m-auto">
-            <div className="card mb-5 remote-card">
+            <div className="card my-5 bg-light border-0">
                 <div className="card-body text-center py-5">
                     <i className="bi bi-geo-alt remote-icon"></i>
                     <h2 className="mt-4 card-title remote-card-title">We're proud to be a fully remote company!</h2>
