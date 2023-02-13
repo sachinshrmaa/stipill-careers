@@ -8,7 +8,7 @@ export default function Home() {
 
       <Head>
         <title>Stipill Careers</title>
-        <meta name="description" content="careers at stipill" />
+        <meta name="description" content="Build the future of creativity by joining our fully remote team!" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/stipill.png" />
       </Head>

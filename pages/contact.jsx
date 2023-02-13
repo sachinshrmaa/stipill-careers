@@ -6,8 +6,7 @@ const Contact = () => {
         <div className="col-md-6 col-11 m-auto py-5">
             <Head>
                 <title>Contact - the basics</title>
-                <meta name="description" content="A series of live cohort which intents to teach you the basics from scratch." />
-        
+                <meta name="description" content="Build the future of creativity by joining our fully remote team!" />        
             </Head>
 
             <h2 className="sub-heading mb-4">Contact Us</h2>
