@@ -110,6 +110,10 @@ body{
     font-family: 'Plus Jakarta Sans', sans-serif;
 }
 
+.bi-linkedin, .bi-github, .bi-twitter, .bi-facebook{
+    font-size: 22px;
+}
+
 
 @media screen and (max-width:600px) {
     .sub-heading{
